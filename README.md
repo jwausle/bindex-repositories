@@ -7,6 +7,7 @@ is a collection of bindex.(xml/xml.gz) repositories ready to use as bnd-reposito
 
 - open ${bnd.cnf-project}/ext/repository.xml
 - append to 'plugin' property
+- sample: 'log4j2-dependency-repository.xml'
 
 ```no-highlight
 plugin: \
